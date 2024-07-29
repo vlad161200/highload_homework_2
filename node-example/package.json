@@ -1,0 +1,16 @@
+{
+  "name": "docker-telegraf-influx-grafana-stack",
+  "version": "1.0.0",
+  "description": "This an example project to show the TIG (Telegraf, InfluxDB and Grafana) stack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  }
+}
